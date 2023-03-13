@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "Best School" > '*\\'"Best School"'"'"'*:$?*****:):'
+echo "Best School" > best_school.txt
+mv best_school.txt '*\\'"Best School"\'\\*$\?\*\*\*\*\*:)''
